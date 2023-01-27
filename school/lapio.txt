@@ -3,3 +3,5 @@ Change made from github
 =======
 Change made from the terminal
 >>>>>>> Stashed changes
+
+Greetings from GitHub
