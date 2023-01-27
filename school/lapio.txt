@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Change made from github
+=======
+Change made from the terminal
+>>>>>>> Stashed changes
